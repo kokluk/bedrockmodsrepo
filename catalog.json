@@ -5,7 +5,7 @@
       "name": "ForceCloseOreUI",
       "description": "OreUI arayüzünü kapatır.",
       "fileName": "ForceCloseOreUI.dll",
-      "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/ForceCloseOreUI.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/mods/ForceCloseOreUI/26.60+/ForceCloseOreUI.dll",
       "discordUrl": "https://discord.gg/gBaFaMQ",
       "sha256": "9892073964ffce1534ca3ec49054db7a46d2e59d249c11be4593b49163695695",
       "size": 243712,
@@ -18,14 +18,35 @@
       "name": "MinecraftForFree",
       "description": "Minecraft lisans doğrulamasını kapatır.",
       "fileName": "MinecraftForFree.dll",
-      "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/MinecraftForFree.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/mods/MinecraftForFree/26.20+/MinecraftForFree.dll",
       "discordUrl": "",
       "sha256": "ab3d4126224246c7b8827c6aeb7401fad8a3cfdb65ec9ae5cc52086c47d1c34e",
       "size": 11776,
       "credit": "Geliştirici: Kokluk",
       "sourceUrl": "",
       "developer": "Kokluk",
-      "minimumVersion": "26.20+"
+      "minimumVersion": "26.20+",
+      "defaultVariant": "26.20+",
+      "variants": [
+        {
+          "version": "26.20+",
+          "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/mods/MinecraftForFree/26.20+/MinecraftForFree.dll",
+          "sha256": "ab3d4126224246c7b8827c6aeb7401fad8a3cfdb65ec9ae5cc52086c47d1c34e",
+          "size": 11776
+        },
+        {
+          "version": "1.21.130+",
+          "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/mods/MinecraftForFree/1.21.130+/MinecraftForFree.dll",
+          "sha256": "363423e1ab96091a0b2c5b087b3f81d1430c72b3ac532cf6be04f6ae971f9b48",
+          "size": 55296
+        },
+        {
+          "version": "1.21.120+",
+          "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/mods/MinecraftForFree/1.21.120+/MinecraftForFree.dll",
+          "sha256": "b612e3958337f7e8977368d2103f8fe6a5b2aaea39f018aea3d282cf9c88164b",
+          "size": 55296
+        }
+      ]
     }
   ]
 }
