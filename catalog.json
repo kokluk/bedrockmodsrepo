@@ -3,7 +3,7 @@
   "mods": [
     {
       "name": "ForceCloseOreUI",
-      "description": "OreUI arayüzünü kapatır. Minecraft 26.60+.",
+      "description": "OreUI arayüzünü kapatır.",
       "fileName": "ForceCloseOreUI.dll",
       "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/ForceCloseOreUI.dll",
       "discordUrl": "https://discord.gg/gBaFaMQ",
@@ -11,11 +11,12 @@
       "size": 243712,
       "credit": "Kaynak: QYCottage / ForceCloseOreUI",
       "sourceUrl": "https://github.com/QYCottage/ForceCloseOreUI",
-      "developer": "QYCottage"
+      "developer": "QYCottage",
+      "minimumVersion": "26.60+"
     },
     {
       "name": "MinecraftForFree",
-      "description": "Minecraft lisans doğrulamasını kapatır. Minecraft 26.20+.",
+      "description": "Minecraft lisans doğrulamasını kapatır.",
       "fileName": "MinecraftForFree.dll",
       "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/MinecraftForFree.dll",
       "discordUrl": "",
@@ -23,7 +24,8 @@
       "size": 11776,
       "credit": "Geliştirici: Kokluk",
       "sourceUrl": "",
-      "developer": "Kokluk"
+      "developer": "Kokluk",
+      "minimumVersion": "26.20+"
     }
   ]
 }
