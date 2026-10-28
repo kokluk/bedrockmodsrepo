@@ -1,6 +1,6 @@
 # BedrockLoader mod deposu
 
-BedrockLoader içindeki **Dahili modlar** ekranının mod listesi.
+BedrockLoader içindeki **Mod Merkezi** ekranının mod listesi.
 
 | Mod | DLL | GitHub | Discord |
 | --- | --- | --- | --- |

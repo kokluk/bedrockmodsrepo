@@ -3,7 +3,7 @@
   "mods": [
     {
       "name": "ForceCloseOreUI",
-      "description": "Windows DLL modu.",
+      "description": "OreUI arayüzünü kapatır. Minecraft 26.60+.",
       "fileName": "ForceCloseOreUI.dll",
       "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/ForceCloseOreUI.dll",
       "discordUrl": "https://discord.gg/gBaFaMQ",
@@ -15,7 +15,7 @@
     },
     {
       "name": "MinecraftForFree",
-      "description": "Windows DLL modu.",
+      "description": "Minecraft lisans doğrulamasını kapatır. Minecraft 26.20+.",
       "fileName": "MinecraftForFree.dll",
       "downloadUrl": "https://raw.githubusercontent.com/kokluk/bedrockmodsrepo/main/MinecraftForFree.dll",
       "discordUrl": "",
