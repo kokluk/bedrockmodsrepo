@@ -10,7 +10,8 @@
       "sha256": "9892073964ffce1534ca3ec49054db7a46d2e59d249c11be4593b49163695695",
       "size": 243712,
       "credit": "Kaynak: QYCottage / ForceCloseOreUI",
-      "sourceUrl": "https://github.com/QYCottage/ForceCloseOreUI"
+      "sourceUrl": "https://github.com/QYCottage/ForceCloseOreUI",
+      "developer": "QYCottage"
     },
     {
       "name": "MinecraftForFree",
@@ -21,7 +22,8 @@
       "sha256": "ab3d4126224246c7b8827c6aeb7401fad8a3cfdb65ec9ae5cc52086c47d1c34e",
       "size": 11776,
       "credit": "Geliştirici: Kokluk",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "developer": "Kokluk"
     }
   ]
 }
